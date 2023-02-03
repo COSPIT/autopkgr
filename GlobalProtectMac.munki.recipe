@@ -15,7 +15,7 @@
 		<key>PLATFORM</key>
 		<string>mac</string>
 		<key>fw_app_bundle_id</key>
-		<string>com.github.ygini.munki.GlobalProtect</string>
+		<string>com.github.cosp.munki.GlobalProtect</string>
 		<key>HOSTNAME</key>
         <string>gp1.southperth.wa.gov.au</string>
         <key>DOWNLOAD_URL</key>
