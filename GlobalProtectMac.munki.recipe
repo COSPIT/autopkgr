@@ -14,10 +14,8 @@
 		<string>mac</string>
 		<key>fw_app_bundle_id</key>
 		<string>com.github.cospit.munki.GlobalProtect</string>
-		<key>HOSTNAME</key>
-        <string>gp1.southperth.wa.gov.au</string>
         <key>DOWNLOAD_URL</key>
-        <string>https://%HOSTNAME%/global-protect/getmsi.esp?platform=%PLATFORM%</string>
+        <string>https://gp1.southperth.wa.gov.auglobal-protect/getmsi.esp?platform=%PLATFORM%</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>catalogs</key>
