@@ -11,7 +11,7 @@
 		<key>NAME</key>
 		<string>GlobalProtect</string>
 		<key>MUNKI_REPO_SUBDIR</key>
-        	<string>apps</string>
+        	<string>apps/PaloAlto</string>
 		<key>PLATFORM</key>
 		<string>mac</string>
 		<key>fw_app_bundle_id</key>
