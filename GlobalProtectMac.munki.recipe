@@ -10,7 +10,7 @@
 	<dict>
 		<key>NAME</key>
 		<string>GlobalProtect</string>
-		key>MUNKI_REPO_SUBDIR</key>
+		<key>MUNKI_REPO_SUBDIR</key>
         	<string>apps</string>
 		<key>PLATFORM</key>
 		<string>mac</string>
