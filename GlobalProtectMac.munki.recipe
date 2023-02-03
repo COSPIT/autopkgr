@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Imports GlobalProtect into munki.</string>
 	<key>Identifier</key>
-	<string>com.github.cospit.munki.GlobalProtect</string>
+	<string>com.github.ygini.munki.GlobalProtect</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -13,9 +13,11 @@
 		<key>PLATFORM</key>
 		<string>mac</string>
 		<key>fw_app_bundle_id</key>
-		<string>com.github.cospit.munki.GlobalProtect</string>
+		<string>com.github.ygini.munki.GlobalProtect</string>
+		<key>HOSTNAME</key>
+        <string>gp1.southperth.wa.gov.au</string>
         <key>DOWNLOAD_URL</key>
-        <string>https://gp1.southperth.wa.gov.au/global-protect/getmsi.esp?platform=%PLATFORM%</string>
+        <string>https://%HOSTNAME%/global-protect/getmsi.esp?platform=%PLATFORM%</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>catalogs</key>
