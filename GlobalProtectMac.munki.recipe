@@ -5,11 +5,13 @@
 	<key>Description</key>
 	<string>Imports GlobalProtect into munki.</string>
 	<key>Identifier</key>
-	<string>com.github.ygini.munki.GlobalProtect</string>
+	<string>com.github.cosp.munki.GlobalProtect</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
 		<string>GlobalProtect</string>
+		key>MUNKI_REPO_SUBDIR</key>
+        	<string>apps</string>
 		<key>PLATFORM</key>
 		<string>mac</string>
 		<key>fw_app_bundle_id</key>
@@ -39,7 +41,7 @@
 	<key>MinimumVersion</key>
 	<string>0.6.1</string>
 	<key>ParentRecipe</key>
-	<string>com.github.peshay.download.GlobalProtect</string>
+	<string>com.github.cosp.download.GlobalProtect</string>
 	<key>Process</key>
 	<array>
 		<dict>
