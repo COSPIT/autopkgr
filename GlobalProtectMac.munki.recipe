@@ -15,7 +15,7 @@
 		<key>fw_app_bundle_id</key>
 		<string>com.github.cospit.munki.GlobalProtect</string>
         <key>DOWNLOAD_URL</key>
-        <string>https://gp1.southperth.wa.gov.auglobal-protect/getmsi.esp?platform=%PLATFORM%</string>
+        <string>https://gp1.southperth.wa.gov.au/global-protect/getmsi.esp?platform=%PLATFORM%</string>
 		<key>pkginfo</key>
 		<dict>
 			<key>catalogs</key>
