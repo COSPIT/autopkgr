@@ -9,7 +9,7 @@
             <key>NAME</key>
             <string>Network Share Mounter</string>
             <key>APP_NAME</key>
-            <string>%NAME%.pkg</string>
+            <string>%NAME%-2.1.2.pkg</string>
             <key>RELEASE_CHANNEL</key>
             <string>release</string> <!-- release or beta -->
         </dict>
