@@ -31,7 +31,7 @@
     <key>MinimumVersion</key>
     <string>0.4.1</string>
     <key>ParentRecipe</key>
-    <string>>com.github.cospit.download.networkShareMounter</string>
+    <string>com.github.cospit.download.networkShareMounter</string>
     <key>Process</key>
     <array>
         <dict>
