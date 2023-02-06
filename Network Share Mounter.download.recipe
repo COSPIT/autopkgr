@@ -9,7 +9,7 @@
             <key>NAME</key>
             <string>Network Share Mounter</string>
             <key>APP_NAME</key>
-            <string>%NAME%-2.1.2.pkg</string>
+            <string>%NAME%.pkg</string>
             <key>RELEASE_CHANNEL</key>
             <string>release</string> <!-- release or beta -->
         </dict>
@@ -62,7 +62,7 @@
             <key>Arguments</key>
             <dict>
               <key>input_path</key>
-              <string>%pathname%/%APP_NAME%</string>
+              <string>%pathname%</string>
               <key>requirement</key>
               <string>anchor apple generic and identifier "de.fau.rrze.NetworkShareMounter" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = C8F68RFW4L)</string>
             </dict>
