@@ -38,7 +38,7 @@
                 <key>url</key>
                 <string>https://gitlab.rrze.fau.de/api/v4/projects/506/releases</string>
                 <key>re_pattern</key>
-                <string>%match%/NetworkShareMounter-%match%((([a-z]|[A-Z])+){0,}).dmg</string>
+                <string>%match%/NetworkShareMounter-%match%((([a-z]|[A-Z])+){0,}).pkg</string>
                 <key>result_output_var_name</key>
                 <string>match2</string>
             </dict>
@@ -49,7 +49,7 @@
             <key>Arguments</key>
             <dict>
                 <key>url</key>
-                <string>https://gitlab.rrze.fau.de/api/v4/projects/506/packages/generic/networksharemounter/%RELEASE_CHANNEL%-%match%/NetworkShareMounter-%match%%match2%.dmg</string>
+                <string>https://gitlab.rrze.fau.de/api/v4/projects/506/packages/generic/networksharemounter/%RELEASE_CHANNEL%-%match%/NetworkShareMounter-%match%%match2%.pkg</string>
             </dict>
         </dict>
         <dict>
