@@ -3,7 +3,7 @@
 <plist version="1.0">
     <dict>
         <key>Identifier</key>
-        <string>de.fau.rrze.download.networkShareMounter</string>
+        <string>>com.github.cospit.download.networkShareMounter</string>
         <key>Input</key>
         <dict>
             <key>NAME</key>
