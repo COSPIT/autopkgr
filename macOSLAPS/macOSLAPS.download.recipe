@@ -35,7 +35,7 @@
 				<string>(</string>
 			</dict>
 			<key>Processor</key>
-			<string>com.github.homebysix.VersionSplitter/VersionSplitter</string>
+			<string>com.github.cospit.VersionSplitter/VersionSplitter</string>
 		</dict>
 		<dict>
 			<key>Arguments</key>
