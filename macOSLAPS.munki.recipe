@@ -9,9 +9,9 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>Network Share Mounter</string>
+        <string>macOSLAPS</string>
         <key>MUNKI_REPO_SUBDIR</key>
-        <string>apps/faumac</string>
+        <string>apps/LAPS</string>
         <key>pkginfo</key>
         <dict>
             <key>catalogs</key>
