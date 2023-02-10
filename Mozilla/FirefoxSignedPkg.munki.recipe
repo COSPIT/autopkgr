@@ -12,7 +12,7 @@ See the following URL for possible LOCALE values:
     http://ftp.mozilla.org/pub/firefox/releases/latest/README.txt
 </string>
 	<key>Identifier</key>
-	<string>com.github.autopkg.munki.FirefoxSignedPkg</string>
+	<string>com.github.cospit.munki.FirefoxSignedPkg</string>
 	<key>Input</key>
 	<dict>
 		<key>MUNKI_REPO_SUBDIR</key>
@@ -44,7 +44,7 @@ See the following URL for possible LOCALE values:
 	<key>MinimumVersion</key>
     <string>2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.autopkg.download.FirefoxSignedPkg</string>
+	<string>com.github.cospit.download.FirefoxSignedPkg</string>
 	<key>Process</key>
 	<array>
 		<dict>
