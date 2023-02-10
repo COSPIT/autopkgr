@@ -19,7 +19,7 @@ See the following URL for possible LOCALE values:
     http://ftp.mozilla.org/pub/firefox/releases/latest/README.txt
 </string>
 	<key>Identifier</key>
-	<string>com.github.autopkg.download.FirefoxSignedPkg</string>
+	<string>com.github.cospit.download.FirefoxSignedPkg</string>
 	<key>Input</key>
 	<dict>
 		<key>LOCALE</key>
