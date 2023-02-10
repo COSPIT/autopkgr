@@ -38,6 +38,6 @@ the latest full update for the given CHANNEL.
         <string>latest</string>
     </dict>
     <key>ParentRecipe</key>
-    <string>com.github.cosp.download.MSOfficeMacProduct</string>
+    <string>com.github.cospit.download.MSOfficeMacProduct</string>
 </dict>
 </plist>
