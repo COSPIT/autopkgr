@@ -7,7 +7,7 @@
 		<key>Description</key>
 		<string>Downloads the latest drivers for the Wacom Intuos Pro tablets.</string>
 		<key>Identifier</key>
-		<string>com.github.jps3.download.WacomIntuosProTabletDriver</string>
+		<string>com.github.cospit.download.WacomIntuosProTabletDriver</string>
 		<key>Input</key>
 		<dict>
 			<key>NAME</key>
